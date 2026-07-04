@@ -9,7 +9,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.8
   supabase_flutter: ^2.9.1
-  teledart: ^3.0.0
+  teledart: ^0.6.1
   shared_preferences: ^2.2.2
 
 dev_dependencies:
